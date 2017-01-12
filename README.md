@@ -15,28 +15,6 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.2 Allgemeine Einstellungen](#22-allgemeine-einstellungen)
     - [2.3 Indes Seiten Aktivieren und Deaktivieren](#23-index-seiten-aktivieren-und-deaktivieren)
     - [2.4 Hosterwahl](#24-hosterwahl)
- - [2.5 Metahandler benutzen](#25-metahandler-benutzen)
- - [2.6 Autoplay Funktion](#26-autoplay-funktion)
- - [2.7 Zentralisierte Einstellungen](#27-zentralisierte-einstellungen)
- 
-- [3. Bekannte Probleme](#3-bekannte-probleme)
-    - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
-    - [3.2 Fehler bei Verwendung der Globalen Suche](#32-fehler-bei-verwendung-der-globalen-suche)
-    - [3.3 Fehler bei Verwendung einzelner Webseiten](#33-fehler-bei-verwendung-einzelner-webseiten)
-    - [3.4 URL Resolver Fehler](#34-url-resolver-fehler)
-   - [3.5 Fehlermeldungen im Betrieb](#35-fehlermeldungen-im-betrieb)
-  
-- [4. Fehlerbericht über Log-Datei](#4-fehlerbericht-über-log-datei)
-    - [4.1 Allgemeines zur Log-Datei](#41-allgemeines-zur-log-datei)
-    - [4.2 Speicherort der Log Datei](#42-speicherort-der-log-datei)
-    - [4.3 Erstellen und Hochladen der Log-Datei](#43-erstellen-und-hochladen-der-log-datei)
-
-    
-- [5. Phyton Dateien](#5-phyton-dateien)
-    - [5.1 Allgemeines zur .py-Datei](#51-allgemeines-zur-py-datei)
-    - [5.2 Bearbeiten einer .py-Datei](#52-bearbeiten-einer-py-datei)
-    - [5.3 Speicherort der einzelnen Webseiten (.py Dateien)](#53-speicherort-der-einzelnen-webseiten-py-dateien)
-
 
 
 ## 1. Allgemeines zum Addon
