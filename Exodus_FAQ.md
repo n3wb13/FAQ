@@ -16,6 +16,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.3 Index Seiten Aktivieren und Deaktivieren](#23-index-seiten-aktivieren-und-deaktivieren)
     - [2.4 Hosterwahl](#24-hosterwahl)
     - [2.5 Konten](#25-konten)
+    - [2.6 Untertitel](#26-untertitel)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -325,6 +326,16 @@ WooHoo! Your device is now connected and will automatically refresh in a few sec
 
 Zurück in Exodus, steht jetzt bei Trakt Euer Benutzername.
 Der Takt Service kann ab jetzt genutzt weren
+
+### 2.6 Untertitel
+*Standard (default):* deaktiviert
+
+Um Untertitel zu aktivieren, gehen in den Einstellungen zu Kategorie *Untertitel*
+Untertitel aktivieren
+
+Hauptsprache und Zweitsprache wählen
+(Es ist jedoch möglich, dass diese Einstellung Funktionslos bleibt)
+Während der Stream läuft könnt Ihr nun am unteren Rand, die Untertitel ein/ausschalten
 
 ## 3. Bekannte Probleme
 
