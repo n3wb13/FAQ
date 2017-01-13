@@ -15,6 +15,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.2 Allgemeine Einstellungen](#22-allgemeine-einstellungen)
     - [2.3 Index Seiten Aktivieren und Deaktivieren](#23-index-seiten-aktivieren-und-deaktivieren)
     - [2.4 Hosterwahl](#24-hosterwahl)
+    - [2.5 Konten](#25-konten)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -302,6 +303,28 @@ Damit dies nicht der Fall ist und die Hoster xStream so arbeiten lassen, wurde m
 Durch den klick auf "pair" bekommen die Hoster Ihre Werbeeinnahme.
 
 Für Euch entstehen dadurch KEINE Kosten!!
+
+### 2.5 Konten
+In dieser Einstellung, kann der Premium Service konfiguriert werden
+Es steht eine Vielzahl an Anbietern zur Verfügung z.B. Trakt, Premiumize, TMDb, IMDb usw
+Voraussetzung ist natürlich, dass ein Account/Abo vom jeweiligen Anbieter vorhanden ist
+
+Die Konfiguration der einzelnen Anbieter kann im englischen Formum nachgelesen werden: [Link](https://www.tvaddons.ag/exodus-tips/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter)
+
+**Trakt einrichten:**
+In der Kategorie *Konto* - *Trakt* auf Berechtigung klicken
+
+*Es wird ein Infofenster angezeigt:*
+
+Webseite besuchen: https://trakt.tv/activate
+Dort werdet Ihr dann aufgefordert den Code (der in Exodus angezeigt wird)  einzugeben, Continue.
+
+Allow Exodus to use Your Accout (Erlaube Exodus die Verwendung Deines Kontos), YES
+
+WooHoo! Your device is now connected and will automatically refresh in a few seconds.
+
+Zurück in Exodus, steht jetzt bei Trakt Euer Benutzername.
+Der Takt Service kann ab jetzt genutzt weren
 
 ## 3. Bekannte Probleme
 
