@@ -17,6 +17,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.4 Hosterwahl](#24-hosterwahl)
     - [2.5 Konten](#25-konten)
     - [2.6 Untertitel](#26-untertitel)
+      [2.7 Downloads](#27-downloads)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -336,6 +337,27 @@ Untertitel aktivieren
 Hauptsprache und Zweitsprache wählen
 (Es ist jedoch möglich, dass diese Einstellung Funktionslos bleibt)
 Während der Stream läuft könnt Ihr nun am unteren Rand, die Untertitel ein/ausschalten
+
+### 2.7 Downloads
+Kategorie *Werkzeuge*, Exodus Downloads
+
+Herunterladen aktivieren
+
+Speicherplatz Ordner für Filme bzw. Serien anlegen/auswählen
+
+Zurück zur Film/Serien Auswahl
+Einen Film/Serie suchen, Film auswählen.
+
+Wenn dann die Anbieter/Hoste angezeigt werden, das Kontexmenü öffnen
+
+Download wählen
+
+Es öffnet sich ein Fenster, wo der Name des Films und die Dateigröße angezeigt wird
+
+Nach Klick auf Confirm, starte der Download. 
+Es wird kurz: *Download in Progress* angezeigt
+
+Ihr findet den Film/Serie dann in Eurem Download Ordner
 
 ## 3. Bekannte Probleme
 
