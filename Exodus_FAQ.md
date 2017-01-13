@@ -252,6 +252,10 @@ Stream startet immer vom Anfang (auch wenn Ihr eine advancedsettings.xml verwend
 Wenn in Kodi unter: 
 Addons-Seitenmenü, Automatische Aktualisierung auf AUS gestellt ist, wird Exodus nicht automatisch aktualisiert
 
+**Exodus: Cache löschen/Index Seiten löschen**
+Löscht den Cache (Speicher) von Exodus
+Keine Angst, hierbei passiert nichts!!
+
 ### 2.3 Index Seiten Aktivieren und Deaktivieren
 
 *Standard:* Alle Index Seiten aktiviert
@@ -335,7 +339,7 @@ Um Untertitel zu aktivieren, gehen in den Einstellungen zu Kategorie *Untertitel
 Untertitel aktivieren
 
 Hauptsprache und Zweitsprache wählen
-(Es ist jedoch möglich, dass diese Einstellung Funktionslos bleibt)
+(Es ist jedoch möglich, dass diese Einstellung gelegentlich Funktionslos bleibt)
 Während der Stream läuft könnt Ihr nun am unteren Rand, die Untertitel ein/ausschalten
 
 ### 2.7 Downloads
