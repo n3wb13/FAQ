@@ -309,9 +309,9 @@ Auch nachdem eine Suche gestartet wurde, werden alle verfügbaren Anbieter/ Host
 
 Die Anzeige sieht wie Folgt aus:
 
-BS I OPENLOAD I HD
+BS | OPENLOAD | HD
 
-(Anbieter I Hoster I Qualität)
+(Anbieter | Hoster | Qualität)
 
 Die Qualität des Streams kann sein:  HD, SD, CAM usw.
 
