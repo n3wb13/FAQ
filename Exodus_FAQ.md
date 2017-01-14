@@ -23,7 +23,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
     - [3.2 URL Resolver Fehler](#32-url-resolver-fehler)
-   - [3.3 Fehlermeldungen im Betrieb](#35-fehlermeldungen-im-betrieb)
+    - [3.3 Fehlermeldungen im Betrieb](#35-fehlermeldungen-im-betrieb)
   
 - [4. Fehlerbericht über Log-Datei](#4-fehlerbericht-über-log-datei)
     - [4.1 Allgemeines zur Log-Datei](#41-allgemeines-zur-log-datei)
