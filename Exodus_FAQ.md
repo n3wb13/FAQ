@@ -432,6 +432,10 @@ Den URL Resolver findet Ihr in Kodi:
 
 Optionen - Einstellungen - Addons - System Addons - Abhängigkeiten - URL Resolver:  Konfigurieren
 
+Den URL Resolver findet Ihr in Kodi 17:
+
+Einstellungen - System - Addons - Abhängigkeiten verwalten - URLResolver: Konfigurieren
+
 ## 3. Bekannte Probleme
 
 ### 3.1 Fehler bei der Installation
