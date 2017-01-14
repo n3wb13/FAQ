@@ -17,7 +17,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.4 Hosterwahl](#24-hosterwahl)
     - [2.5 Konten](#25-konten)
     - [2.6 Untertitel](#26-untertitel)
-      [2.7 Downloads](#27-downloads)
+    - [2.7 Downloads](#27-downloads)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -96,7 +96,10 @@ Hier ist ein Video von Rechtsanwalt Christian Solmecke, der über das Thema rech
 ### 2.1 Bezugsquellen zur Installation
 
 Das Video Addon Exodus wird über das  EXODUS Repository installiert (empfohlen). 
-Diese ist momentan hier verfügbar: [Download](https://offshoregit.com/exodus/repository.exodus/repository.exodus-1.0.1.zip)
+
+Diese ist momentan hier verfügbar: 
+[Download](https://offshoregit.com/exodus/repository.exodus/repository.exodus-1.0.1.zip)
+
 (INFO) Exodus auf Offshoregit: [Link](https://offshoregit.com/exodus/)
 
 Die Aktualisierung von Exodus erfolgt NUR über das Exodus Repository, so wie bei jedem anderen Repo auch. 
@@ -134,6 +137,7 @@ Hier werden alle Exodus Einstellungen angezeigt
 ####**Einstellungen Allgemein**
 
 ***Erscheinungsbild***
+
 Exuary
 Exodus
 Genesis
@@ -144,6 +148,7 @@ Das Exodus Artwork Addon wird standardmäßig mit installiert
 
 
 ***Zeitlimit für Index Seiten: ***
+
 *Standard (default):* 30 Sekunden
 
 Ist die Zeit, wie lange Exodus die Anbieter durchsuchen soll  bevor das Suchergebniss , als Liste zur Auswahl  angezeigt  wird
@@ -154,6 +159,7 @@ Exodus liefert ein exzellentes Ergebnisse mit einem Wert von 12 -
 Wenn Ihr Schwierigkeiten habt Streams zu finden, kann dieser Wert erhöht werden
 
 ***Indikator***
+
 *Standard (default): Lokal*
 
 *Lokal: * der gesehen Status wird innerhalb von Kodi behandelt
@@ -163,7 +169,9 @@ wenn Ihr bei dem Menüpunkt *Konto* Euer Trakt Konto aktiviert habt, kann hier a
 Wird Trakt verwendet, dann werden alle gesehen Status  auf der Trakt Homepage gespeichert 
 
 ***Sprache für Informationen***
+
 *Standard (default):* Auto
+
 Es wird automatisch die in Kodi verwendete Sprache benutzt
 Wenn notwendig, kann die Sprache manuell eingestellt werden
 
@@ -171,48 +179,62 @@ Diese Einstellung kontrolliert die Sprache, welche Angezeigt/Wiedergegeben wird,
 Diese Einstellung bezieht sich nur auf die Informationen für Exodus und hat KEINE Auswirkung auf die Stream Sprache
 
 ***Sprache für Index Seiten***
+
 Hier wird die Sprache für die Webseiten Eingestellt, zur Auswahl:
 
 Englisch 
+
 German
+
 All
 
 **Serien-Staffeln reduzieren**
+
 EIN: Alle Staffeln werden in einer Liste angezeigt 
 AUS: Staffeln werden in eigenen Staffel Ordnern angezeigt
 
 **Fanart verwenden**
+
 *Standard (default):* aktiviert
 
 Wenn Ihr Probleme mit dieser Funktion habt, solltet Ihr überlegen diese zu deaktivieren um zu sehen, ob sich dadurch die Leistung verbessert
 Dadurch verliert Ihr natürlich die Bilder und Kosmetische Aspekte. Aber es könnte zur Leistungsverbesserung beitragen
 
 **MENÜ**
+
 *Neue Filme:*
+
 Einstellung, welcher Inhalt angezeigt wird, wenn die Kategorie Neue Filme in Exodus gewählt wird (Im Kino, am populärsten, Empfohlen, Deaktivieren
 
 *Neue Episoden:*
+
 Einstellung, welcher Inhalt angezeigt wird, wenn die Kategorie Neue Episoden in Exodus gewählt wird (Episoden, Deaktiviert)
 
 *Meine Listen:*
+
 wenn aktiviert, wird im Hauptmenü die Kategorie Meine Liste angezeigt. 
 Funktion nur mit Trakt Konto (und anderen Konten)
 
 ####**Einstellungen Wiedergabe**
+
 **Standard Aktion (default):**  Verzeichnis
 
 *Verzeichnis*
+
 Die Anzeige ist wie eine Liste Aufgebaut
 
 *Dialog*
+
 Die Anzeige erfolgt in einem kleineren Fenster, Aufbau wie eine Liste
  
 *Auto-Play*
+
 Es wird keine Liste angezeigt
 Die Wiedergabe nach Filmauswahl/Serienauswahl startet automatisch
 Es wird der beste verfügbare Hoster gewählt
 
 **Fortschrittsdialog**
+
 Vordergrund: 
 nach Streamauswahl wird das Info-Fenster, groß in der mitte des Bildschirmes dargestellt
 
@@ -220,32 +242,41 @@ Hintergrund:
 nach Streamauswahl wird das Info-Fenster, klein am Rand des Bildschirmes dargestellt
 
 **DATEIANBIETER FILTER**
+
 **Höchste Qualität: **
+
 1080p, 720p und 480p stehen zur Auswahl
 
 **SD Anbieter in Autoplay**
+
 *Wenn aktiviert:*
+
 werden im Auto-Play Modus nur SD Streams wiedergegeben. 
 HD Streams werden dabei ignoriert. 
 Ist nur dann sinnvoll, wenn man einen langsamen Internet Anbieter oder eine schwache Hardware hat
 
 **Dateianbieter mit Captcha Abfrage* *
+
 Wenn aktiviert, werden alle Hoster die Captcha-Abfragen durchführen ignoriert
 
 **Nach Index-Seiten sortieren**
+
 Wenn aktiviert, werden nur die Streams der Ausgewählten Anbieter angezeigt.
 Premium Services sind immer Gruppiert und stehen  an der Spitze der Liste
 Beispiel: Alle Streams, die z.B. auf PrimeWire gefunden werden, sind aufgelistet
 
 ***Wenn Wiedergabe startet......***
+
 *Wiedergabe fortsetzen*
 
 Wenn ein Stream gestoppt wird, wird automatisch ein Fortsetzungspunkt gespeichert/erstellt 
 
 *Option Wiedergabe fortsetzten EIN:*
+
 Es erscheint bei Fortsetzung des Streams eine  Anzeige  wo gewählt werden kann: Fortsetzen oder Vom Anfang abspielen an, egal welcher Hoster dabei gewählt wird
 
 *Option Wiedergabe fortsetzten AUS:*
+
 Stream startet immer vom Anfang (auch wenn Ihr eine advancedsettings.xml verwendet)
 
 
@@ -253,6 +284,7 @@ Wenn in Kodi unter:
 Addons-Seitenmenü, Automatische Aktualisierung auf AUS gestellt ist, wird Exodus nicht automatisch aktualisiert
 
 **Exodus: Cache löschen/Index Seiten löschen**
+
 Löscht den Cache (Speicher) von Exodus
 Keine Angst, hierbei passiert nichts!!
 
@@ -276,7 +308,9 @@ Wenn Ihr im Menü z.B. Filme- Jahr- 2017- beliebigen Film auswählen- klickt, we
 Auch nachdem eine Suche gestartet wurde, werden alle verfügbaren Anbieter/ Hoster angezeigt. 
 
 Die Anzeige sieht wie Folgt aus:
+
 BS I OPENLOAD I HD
+
 (Anbieter I Hoster I Qualität)
 
 Die Qualität des Streams kann sein:  HD, SD, CAM usw.
@@ -284,6 +318,7 @@ Die Qualität des Streams kann sein:  HD, SD, CAM usw.
 Wie lange das durchsuchen der Hoster dauert hängt von der Einstellung *Zeitlimit für Index Seiten* ab
 
 *Wenn Ihr einen Film/Serie angewählt habt, könnt Ihr ein zusätzliches Menü öffnen:*
+
 am PC: rechte Maus Taste
 am Handy/Tablet: langer Druck auf den Film
 am FireTV: die Menü Taste drücken
@@ -291,6 +326,7 @@ am FireTV: die Menü Taste drücken
 Ist der von Euch gewählte Anbieter/Hoster nicht verfügbar, nimmt Exodus AUTOMATISCH den nächsten, bis ein lauffähiger gefunden wird
 
 ***Anmerkung zu den Hostern Openload (HD), TheVideo:***
+
 Wenn Ihr einen dieser Hoster zum Streamen auswählt, erscheint ein Fenster, welches Euch auffordert Eure Gerät zu Pairen.
 Das könnt ihr mit ruhigen Gewissen machen.
 
