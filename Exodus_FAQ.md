@@ -235,6 +235,7 @@ Die Wiedergabe nach Filmauswahl/Serienauswahl startet automatisch
 Es wird der beste verfügbare Hoster gewählt
 
 Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität
+(und auch Qualität, HD vor SD usw.)
 Diese kann unter “Resolver Settings” angepasst werden.
 
 ***Niedrige Werte werden vor hohen Werten gewählt***
