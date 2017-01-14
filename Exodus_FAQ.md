@@ -413,7 +413,7 @@ Ihr findet den Film/Serie dann in Eurem Download Ordner
 
 ### 2.8 URL Resolver Konfiguration
 
-Es besteht die Möglichkeit, in den Einstellunge des URL Resolvers die Priorität der Hoster festzulegen also welche Hoster als ersters angezeigt bzw. verwendet werden sollen.
+Es besteht die Möglichkeit, in den Einstellungen des URL Resolvers die Priorität der Hoster festzulegen also welche Hoster als ersters angezeigt bzw. verwendet werden sollen.
 
 Exodus probiert automatisch alle verfügbaren Hoster aus, bis ein Stream abgespielt werden kann
 
