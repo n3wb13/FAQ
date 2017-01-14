@@ -18,6 +18,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.5 Konten](#25-konten)
     - [2.6 Untertitel](#26-untertitel)
     - [2.7 Downloads](#27-downloads)
+    - [2.8 URL Resolver Konfiguration](#28-url-resolver-konfiguration)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -233,6 +234,11 @@ Es wird keine Liste angezeigt
 Die Wiedergabe nach Filmauswahl/Serienauswahl startet automatisch
 Es wird der beste verfügbare Hoster gewählt
 
+Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität
+Diese kann unter “Resolver Settings” angepasst werden.
+
+***Niedrige Werte werden vor hohen Werten gewählt***
+
 **Fortschrittsdialog**
 
 Vordergrund: 
@@ -300,6 +306,12 @@ Diese werden dann auch nicht in der Suche angezeigt.
 
 Nache einem Exodus Update werden auch neu hinzugefügte Seiten automatisch angezeigt. 
 Das Update erfolgt aber nur, wenn das Exodus Repo installiert ist, wie am Anfang beschrieben
+
+Im Verzeichnis `...kodi/addons/plugin.video.exodus/resources/lib/sources_de` sind die .py Daten  der einzelnen Webseiten abgelegt.
+Hier könnt Ihr auch neue Deutsche Seiten hinzufügen, oder bestehende bearbeiten
+
+Bei diesem Pfad handelt es sich um "versteckte Dateien". 
+Diese müssen erst sichtbar gemacht werden
 
 ### 2.4 Hosterwahl
 
@@ -398,6 +410,24 @@ Nach Klick auf Confirm, starte der Download.
 Es wird kurz: *Download in Progress* angezeigt
 
 Ihr findet den Film/Serie dann in Eurem Download Ordner
+
+### 2.8 URL Resolver Konfiguration
+
+Es besteht die Möglichkeit, in den Einstellunge des URL Resolvers die Priorität der Hoster festzulegen also welche Hoster als ersters angezeigt bzw. verwendet werden sollen.
+
+Exodus probiert automatisch alle verfügbaren Hoster aus, bis ein Stream abgespielt werden kann
+
+Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität
+
+Diese kann unter “Resolver Settings” angepasst werden
+
+***Niedrige Werte werden vor hohen Werten gewählt***
+
+Sind Eure Priorisierten (Lieblings) Hoster nicht nicht verfügbar, nimmt Exodus den nächsten Hoster der funktioniert
+
+Den URL Resolver findet Ihr in Kodi:
+
+Optionen - Einstellungen - Addons - System Addons - Abhängigkeiten - URL Resolver:  Konfigurieren
 
 ## 3. Bekannte Probleme
 
