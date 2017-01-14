@@ -255,7 +255,7 @@ werden im Auto-Play Modus nur SD Streams wiedergegeben.
 HD Streams werden dabei ignoriert. 
 Ist nur dann sinnvoll, wenn man einen langsamen Internet Anbieter oder eine schwache Hardware hat
 
-**Dateianbieter mit Captcha Abfrage* *
+**Dateianbieter mit Captcha Abfrage**
 
 Wenn aktiviert, werden alle Hoster die Captcha-Abfragen durchführen ignoriert
 
