@@ -416,6 +416,8 @@ Ihr findet den Film/Serie dann in Eurem Download Ordner
 
 Es besteht die Möglichkeit, in den Einstellungen des URL Resolvers die Priorität der Hoster festzulegen also welche Hoster als ersters angezeigt bzw. verwendet werden sollen.
 
+*Da Exodus & xStream den gleichen URL Resolver verwenden, hat diese Einstellung auch Auswirkung auf beide Addons!!*
+
 Exodus probiert automatisch alle verfügbaren Hoster aus, bis ein Stream abgespielt werden kann
 
 Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität
