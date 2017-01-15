@@ -106,6 +106,10 @@ Diese ist momentan hier verfügbar:
 Die Aktualisierung von Exodus erfolgt NUR über das Exodus Repository, so wie bei jedem anderen Repo auch. 
 Nach einem Repo Update, werden dann auch neu hinzugefügte Index-Seiten automatisch angezeigt.
 
+**Tipp:**
+
+Da Exodus und xStream den gleichen URLResolver verwenden, könnt Ihr das (tägliche) Updaten des URLResolvers über xStream machen, sofern xStream installiert ist
+
 Alternativ kann Exodus auch über das Addon Fusion Installer installiert werden, jedoch nicht zu empfehlen da es zu umständlich ist
 
 ***WICHTIG:*** Jedoch muss an dieser Stelle klar darauf hingewiesen werden, dass unter der alternativen Bezugsquelle nicht für den aktuellsten Stand und Funktion der Software garantiert werden kann!
@@ -305,6 +309,12 @@ Ebenso kann jetzt hier eingestellt werden ob Deutsche und/oder Englische Seiten 
 Dies kann von Nutzen sein, wenn kein Interesse an bestimmten Medien besteht. 
 Diese werden dann auch nicht in der Suche angezeigt.
 
+*Anmerkung*
+
+Es kann momentan noch vorkommen, das Deutsch gewählt wurde, aber trotzdem auch Englische Anbieter/Hoster angezeigt werden
+Das liegt an dem Hoster Primewire. 
+Wenn Ihr den deaktiviert, sollte das Problem behoben sein
+
 Nache einem Exodus Update werden auch neu hinzugefügte Seiten automatisch angezeigt. 
 Das Update erfolgt aber nur, wenn das Exodus Repo installiert ist, wie am Anfang beschrieben
 
@@ -436,6 +446,8 @@ Den URL Resolver findet Ihr in Kodi 17:
 
 Einstellungen - System - Addons - Abhängigkeiten verwalten - URLResolver: Konfigurieren
 
+
+
 ## 3. Bekannte Probleme
 
 ### 3.1 Fehler bei der Installation
@@ -451,7 +463,8 @@ Sollte dies der Fall sein, bitte den aktuellste Version des "URLResolver" über 
 
 ### 3.3 Fehlermeldungen im Betrieb
 
-Derzeit nichts bekannt 
+Derzeit keine bekannt
+
 ## 4. Fehlerbericht über Log-Datei
 
 
