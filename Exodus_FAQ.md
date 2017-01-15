@@ -19,6 +19,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.6 Untertitel](#26-untertitel)
     - [2.7 Downloads](#27-downloads)
     - [2.8 URL Resolver Konfiguration](#28-url-resolver-konfiguration)
+    - [2.9 Trakt](#29-trakt)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -299,6 +300,11 @@ Addons-Seitenmenü, Automatische Aktualisierung auf AUS gestellt ist, wird Exodu
 Löscht den Cache (Speicher) von Exodus
 Keine Angst, hierbei passiert nichts!!
 
+**Kategorie: Meine Filme / Meine TV Serien**
+
+Diese beiden Kategorien sind nur nutzbar, wenn z.B. Trakt aktiviert ist
+Hier findet Ihr dann Eure gesehenen Serien/Filme, Filmvorschläge usw.
+
 ### 2.3 Index Seiten Aktivieren und Deaktivieren
 
 *Standard:* Alle Index Seiten aktiviert
@@ -446,7 +452,39 @@ Den URL Resolver findet Ihr in Kodi 17:
 
 Einstellungen - System - Addons - Abhängigkeiten verwalten - URLResolver: Konfigurieren
 
+### 2.9 Trakt
+Die Einrichtung des Trakt Kontos steht in Kapitel 2.5
 
+*Wollt Ihr nun eine Staffel zur Merkliste hinzufügen, geht das wie folgt:*
+
+Serienstaffel suchen, Kontexmenü öffnen- Trakt Manager
+In dem sich nun öffnenden Fenster, könnt Ihr eine Liste wählen, wo die Staffel gespeichert werden soll
+
+**Kategorie:  Meine TV Serien**
+
+In dieser Kategorie, findet Ihr die zuvor angezeigte Liste und somit die von Euch gespeicherte Serie
+
+*Wollt Ihr nun eine Serie zu Takt hinzufügen, geht das wie folgt:*
+
+Serie wählen - Staffel wählen - Episode wählen - Kontexmenü öffnen - In Trakt angesehen klicken
+
+Auf die gleiche Weise, könnt Ihr auch die komplette Staffel als "In Trakt gesehen" wählen
+
+*Wollt Ihr nun einen Film zur Merkliste hinzufügen, geht das wie folgt:*
+
+Das vorgehen ist dabei gleich wie bei den Serien
+
+Film wählen - Kontexmenü öffnen - Trakt manager 
+
+In dem sich nun öffnenden Fenster, könnt Ihr eine Liste wählen, wo der Film gespeichert werden soll
+
+**Kategorie:  Meine Filme**
+
+In dieser Kategorie, findet Ihr die zuvor angezeigte Liste und somit den von Euch gespeicherten Film
+
+*Wollt Ihr nun einen Film zu Takt hinzufügen, geht das wie folgt:*
+
+Film wählen - Kontext Menü öffnen - In Trakt angesehen wählen
 
 ## 3. Bekannte Probleme
 
