@@ -68,9 +68,13 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | FilmPalast     | filmpalast.to     | funktioniert           | 12.01.2017 |
 | HDfilme        | hdfilme.tv        | funktioniert           | 12.01.2017 |
 |iLoad |iload.to |funktioniert|	12.01.2017
+| KinoDogs|  kinodogs.to| funktioniert|nächstes Update
 | KinoX          | kinox.to          | funktioniert           | 12.01.2017 |
 |MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017
+|SerienStream|  serienstream.to | 12.01.2017  | nächstes Update  |
 |StreamDream| 	streamdream.ws| 	funktioniert |12.01.2017
+|StreamKisteTV| streamkiste.tv | funktioniert |12.01.2017  |
+|SeriesEver |seriesever.net |funktioniert | nächstes Update
 | Tata           | tata.to           | funktioniert           | 12.01.2017 |
 | Video4k        | video4k.to        | funktioniert           | 12.01.2017 |
 |View4U 	|view4u.co |funktioniert |12.01.2017
@@ -106,6 +110,8 @@ Diese ist momentan hier verfügbar:
 
 Die Aktualisierung von Exodus erfolgt NUR über das Exodus Repository, so wie bei jedem anderen Repo auch. 
 Nach einem Repo Update, werden dann auch neu hinzugefügte Index-Seiten automatisch angezeigt.
+
+ Wollt Ihr nicht bis zu einem (Index-Seiten)Update warten, könnt Ihr unter folgendem Link die .py Dateien downloaden und in das entsprechende Verzeichnis kopieren (siehe Kap.5.3): [Link](https://github.com/Viper2k4/script.exodus.de)
 
 **Tipp:**
 
@@ -300,6 +306,10 @@ Addons-Seitenmenü, Automatische Aktualisierung auf AUS gestellt ist, wird Exodu
 Löscht den Cache (Speicher) von Exodus
 Keine Angst, hierbei passiert nichts!!
 
+**Suche**
+
+Die Suche in Exodus ist ein Globale Suche. Das heißt, es werden immer alle Anbieter/Hoster durchsucht
+
 **Kategorie: Meine Filme / Meine TV Serien**
 
 Diese beiden Kategorien sind nur nutzbar, wenn z.B. Trakt aktiviert ist
@@ -490,7 +500,11 @@ Film wählen - Kontext Menü öffnen - In Trakt angesehen wählen
 
 ### 3.1 Fehler bei der Installation
 
-Keine bekannt
+**Bei der Installation von Exodus erscheint folgende Fehlermeldung**
+
+Installation fehlgeschlagen --> Installation der Abhängigen fehlgeschlagen
+
+- Lösung: Deaktiviert alle Repositorys, welche Exodus anbieten Danach Exodus aus der offiziellen Exodus Repo installieren und alles funktioniert
 
 ### 3.2 URL Resolver Fehler
 
