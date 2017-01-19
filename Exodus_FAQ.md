@@ -71,7 +71,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | KinoDogs|  kinodogs.to| funktioniert|nächstes Update
 | KinoX          | kinox.to          | funktioniert           | 12.01.2017 |
 |MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017
-|SerienStream|  serienstream.to | 12.01.2017  | nächstes Update  |
+|SerienStream|  serienstream.to | funktioniert   | nächstes Update  |
 |StreamDream| 	streamdream.ws| 	funktioniert |12.01.2017
 |StreamKisteTV| streamkiste.tv | funktioniert |12.01.2017  |
 |SeriesEver |seriesever.net |funktioniert | nächstes Update
@@ -111,7 +111,13 @@ Diese ist momentan hier verfügbar:
 Die Aktualisierung von Exodus erfolgt NUR über das Exodus Repository, so wie bei jedem anderen Repo auch. 
 Nach einem Repo Update, werden dann auch neu hinzugefügte Index-Seiten automatisch angezeigt.
 
- Wollt Ihr nicht bis zu einem (Index-Seiten)Update warten, könnt Ihr unter folgendem Link die .py Dateien downloaden und in das entsprechende Verzeichnis kopieren (siehe Kap.5.3): [Link](https://github.com/Viper2k4/script.exodus.de)
+Wollt Ihr nicht bis zu einem (Index-Seiten)Update warten, könnt Ihr unter folgendem Link die .py Dateien downloaden und in das entsprechende Verzeichnis kopieren (siehe Kap.5.3): [Link](https://github.com/Viper2k4/script.exodus.de)
+
+**Wichtig**
+
+Die Index-Seiten welche so hinzugefügt werden, können sofort verwendet werden, jedoch sind Sie in den Einstellungen (Index-Seiten) NICHT sichtbar. 
+
+Die Sichtbarkeit erfolgt, mit dem nächsten Repo Update!!
 
 **Tipp:**
 
@@ -159,7 +165,7 @@ Das Exodus Artwork Addon wird standardmäßig mit installiert
 
 
 
-***Zeitlimit für Index Seiten: ***
+***Zeitlimit für Index Seiten:***
 
 *Standard (default):* 30 Sekunden
 
@@ -174,7 +180,7 @@ Wenn Ihr Schwierigkeiten habt Streams zu finden, kann dieser Wert erhöht werden
 
 *Standard (default): Lokal*
 
-*Lokal: * der gesehen Status wird innerhalb von Kodi behandelt
+*Lokal:* der gesehen Status wird innerhalb von Kodi behandelt
 
 *Trakt:* 
 wenn Ihr bei dem Menüpunkt *Konto* Euer Trakt Konto aktiviert habt, kann hier auch Trakt ausgewählt werden
@@ -203,6 +209,7 @@ All
 **Serien-Staffeln reduzieren**
 
 EIN: Alle Staffeln werden in einer Liste angezeigt 
+
 AUS: Staffeln werden in eigenen Staffel Ordnern angezeigt
 
 **Fanart verwenden**
@@ -247,6 +254,7 @@ Es wird der beste verfügbare Hoster gewählt
 
 Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität
 (und auch Qualität, HD vor SD usw.)
+
 Diese kann unter “Resolver Settings” angepasst werden.
 
 ***Niedrige Werte werden vor hohen Werten gewählt***
@@ -254,14 +262,16 @@ Diese kann unter “Resolver Settings” angepasst werden.
 **Fortschrittsdialog**
 
 Vordergrund: 
+
 nach Streamauswahl wird das Info-Fenster, groß in der mitte des Bildschirmes dargestellt
 
 Hintergrund: 
+
 nach Streamauswahl wird das Info-Fenster, klein am Rand des Bildschirmes dargestellt
 
 **DATEIANBIETER FILTER**
 
-**Höchste Qualität: **
+**Höchste Qualität:**
 
 1080p, 720p und 480p stehen zur Auswahl
 
@@ -329,7 +339,10 @@ Diese werden dann auch nicht in der Suche angezeigt.
 
 Es kann momentan noch vorkommen, das Deutsch gewählt wurde, aber trotzdem auch Englische Anbieter/Hoster angezeigt werden
 Das liegt an dem Hoster Primewire. 
-Wenn Ihr den deaktiviert, sollte das Problem behoben sein
+Wenn Ihr den deaktiviert, sollte das Problem behoben sein (wird mit dem nächsten Repo Update gefixt)
+
+Wenn Ihr Probleme mit kinox habt, hilft es wenn Ihr Eure DNS (z.B. auf die von Google 8.8.8.8) Adresse ändert. 
+Manche Seiten werden von den Internet Providern geblockt 
 
 Nache einem Exodus Update werden auch neu hinzugefügte Seiten automatisch angezeigt. 
 Das Update erfolgt aber nur, wenn das Exodus Repo installiert ist, wie am Anfang beschrieben
