@@ -299,6 +299,8 @@ Beispiel: Alle Streams, die z.B. auf PrimeWire gefunden werden, sind aufgelistet
 
 Wenn ein Stream gestoppt wird, wird automatisch ein Fortsetzungspunkt gespeichert/erstellt 
 
+(aber erst ab einer Wiedergabezeit von 3 Minuten )
+
 *Option Wiedergabe fortsetzten EIN:*
 
 Es erscheint bei Fortsetzung des Streams eine  Anzeige  wo gewählt werden kann: Fortsetzen oder Vom Anfang abspielen an, egal welcher Hoster dabei gewählt wird
