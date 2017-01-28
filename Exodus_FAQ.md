@@ -44,6 +44,10 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
 Exodus ist, genau wie xStream,  ein Video Addon für die Media-Center-Software Kodi. 
 Mit Exodus ist es möglich über eine einfache Benutzeroberfläche mehrere Streaming-Seiten zu benutzen, mit denen man Filme und Serien anschauen kann.
 
+Dabei greift Exodus bei Film/Serienauswahl oder einer Suche zuerst auf eine Filmdatenbank zu (z.B.tvdb) und zeigt ein Ergebnis an. 
+
+Erst nach der getroffenen Auswahl werden die Anbieter & Hoster durchsucht.
+
 Der Menüaufbau von Exodus ist eigentlich selbsterklärend
 
 Die Menüsprache von Exodus ist jene Sprache, auf die Kodi eingestellt ist
@@ -68,13 +72,13 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | FilmPalast     | filmpalast.to     | funktioniert           | 12.01.2017 |
 | HDfilme        | hdfilme.tv        | funktioniert           | 12.01.2017 |
 |iLoad |iload.to |funktioniert|	12.01.2017
-| KinoDogs|  kinodogs.to| funktioniert|nächstes Update
+| KinoDogs|  kinodogs.to| funktioniert|28.01.2017
 | KinoX          | kinox.to          | funktioniert           | 12.01.2017 |
 |MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017
-|SerienStream|  serienstream.to | funktioniert   | nächstes Update  |
+|SerienStream|  serienstream.to | funktioniert   | 28.1.2017  |
 |StreamDream| 	streamdream.ws| 	funktioniert |12.01.2017
 |StreamKisteTV| streamkiste.tv | funktioniert |12.01.2017  |
-|SeriesEver |seriesever.net |funktioniert | nächstes Update
+|SeriesEver |seriesever.net |funktioniert | 12.01.2017
 | Tata           | tata.to           | funktioniert           | 12.01.2017 |
 | Video4k        | video4k.to        | funktioniert           | 12.01.2017 |
 |View4U 	|view4u.co |funktioniert |12.01.2017
@@ -204,7 +208,7 @@ Englisch
 
 German
 
-All
+German + Englisch
 
 **Serien-Staffeln reduzieren**
 
@@ -273,7 +277,7 @@ nach Streamauswahl wird das Info-Fenster, klein am Rand des Bildschirmes dargest
 
 **Höchste Qualität:**
 
-1080p, 720p und 480p stehen zur Auswahl
+4k, 1440p, 1080p, 720p und 480p stehen zur Auswahl
 
 **SD Anbieter in Autoplay**
 
