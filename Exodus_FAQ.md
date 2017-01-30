@@ -52,6 +52,8 @@ Der Menüaufbau von Exodus ist eigentlich selbsterklärend
 
 Die Menüsprache von Exodus ist jene Sprache, auf die Kodi eingestellt ist
 
+Über das Seiten-Menü (linker Rand von Kodi) könnt Ihr die Ansicht wie die Filminformationen dargestellt werden, ändern: Liste, Wall, InfoWall, LowList, Symbol usw.
+
 Bei Exodus liegt der Vorteil für viele User darin, dass auch Englisch sprachliche Streams genutzt werden können.
 
 Die Englischen Seiten werden jedoch von uns nicht Supportet.
