@@ -81,7 +81,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 |SeriesEver |seriesever.net |funktioniert | 12.01.2017
 | Tata           | tata.to           | funktioniert           | 12.01.2017 |
 | Video4k        | video4k.to        | funktioniert           | 12.01.2017 |
-|View4U 	|view4u.co |funktioniert |12.01.2017
+|View4U 	|view4u.cc |Homepage down |29.01.2017
 
 Empfehlungen und Vorschläge für neue Seiten können über das xStream Forum unter dem Bereich [Sonstiges, Projekt EXODUS](http://xstream-addon.square7.ch/showthread.php?tid=911) angefragt bzw. eingestellt werden.
 
@@ -254,12 +254,12 @@ Die Anzeige erfolgt in einem kleineren Fenster, Aufbau wie eine Liste
 
 Es wird keine Liste angezeigt
 Die Wiedergabe nach Filmauswahl/Serienauswahl startet automatisch
-Es wird der beste verfügbare Hoster gewählt
+Es wird der beste verfügbare Hoster & die beste verfügbare Qualität gewählt
 
 Die Auswahlreihenfolge der Hoster richtet sich nach deren Priorität
 (und auch Qualität, HD vor SD usw.)
 
-Diese kann unter “Resolver Settings” angepasst werden.
+Die Priorität kann im URLResolver unter “Resolver Settings” angepasst werden.
 
 ***Niedrige Werte werden vor hohen Werten gewählt***
 
@@ -278,6 +278,10 @@ nach Streamauswahl wird das Info-Fenster, klein am Rand des Bildschirmes dargest
 **Höchste Qualität:**
 
 4k, 1440p, 1080p, 720p und 480p stehen zur Auswahl
+
+Das was hier engestellt wird, ist die max. Auflösung nach denen die Index-Seiten durchsucht werden. 
+
+Ist auch die max. Auflösung, welche bei Autoplay verwendet wird
 
 **SD Anbieter in Autoplay**
 
@@ -341,12 +345,19 @@ Ebenso kann jetzt hier eingestellt werden ob Deutsche und/oder Englische Seiten 
 Dies kann von Nutzen sein, wenn kein Interesse an bestimmten Medien besteht. 
 Diese werden dann auch nicht in der Suche angezeigt.
 
+Einige Index-Seiten unterschützen Multi-Part
+
+Aktuelle sind das ddl.me und Filmpalast
+
+*Was ist MultiPart?*
+
+MultiPart bedeutet: das der Film in zwei Teilen auf der Seite hochgeladen ist und Exodus diese nahtlos nacheinander abspielt
+
+Der Film sollte auch grob in der Mitte mal nachladen, beim Wechsel auf den zweiten Stream. 
+
+Auch beim Start des zweiten Stream etwas langsamer, aber besser so als gar nicht
+
 *Anmerkung*
-
-Es kann momentan noch vorkommen, das Deutsch gewählt wurde, aber trotzdem auch Englische Anbieter/Hoster angezeigt werden
-Das liegt an dem Hoster Primewire. 
-Wenn Ihr den deaktiviert, sollte das Problem behoben sein (wird mit dem nächsten Repo Update gefixt)
-
 Wenn Ihr Probleme mit kinox habt, hilft es wenn Ihr Eure DNS (z.B. auf die von Google 8.8.8.8) Adresse ändert. 
 Manche Seiten werden von den Internet Providern geblockt 
 
@@ -514,6 +525,13 @@ In dieser Kategorie, findet Ihr die zuvor angezeigte Liste und somit den von Euc
 *Wollt Ihr nun einen Film zu Takt hinzufügen, geht das wie folgt:*
 
 Film wählen - Kontext Menü öffnen - In Trakt angesehen wählen
+
+*INFO:*
+Immer wenn ein Film/Serie in Exodus als gesehen oder "In Trakt gesehen" markieret wird, springt Exodus zum Listenanfang zurück
+
+Das ist leider ein normales verhalten von Exodus und liegt an Kodi 17
+
+Hier müssen an Exodus noch Anpassungen für Kodi 17 vorgenommen werden
 
 ## 3. Bekannte Probleme
 
