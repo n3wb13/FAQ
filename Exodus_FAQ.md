@@ -77,6 +77,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | KinoDogs|  kinodogs.to| funktioniert|28.01.2017
 | KinoX          | kinox.to          | funktioniert           | 12.01.2017 |
 |MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017
+|Rapidstream| rapidstream.to|nächstes Update | 06.02.2017|
 |SerienStream|  serienstream.to | funktioniert   | 28.1.2017  |
 |StreamDream| 	streamdream.ws| 	funktioniert |12.01.2017
 |StreamKisteTV| streamkiste.tv | funktioniert |12.01.2017  |
