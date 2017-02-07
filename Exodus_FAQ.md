@@ -57,7 +57,6 @@ Die Menüsprache von Exodus ist jene Sprache, auf die Kodi eingestellt ist
 Bei Exodus liegt der Vorteil für viele User darin, dass auch Englisch sprachliche Streams genutzt werden können.
 
 Die Englischen Seiten werden jedoch von uns nicht Supportet.
-Fragen dazu bitte im Englischen Forum stellen: [Link](https://forums.tvaddons.ag/lambda-s-xbmc-addons/41161-exodus-add.html)
 
 Unterstützung und Anfragen zu den Deutschen Seiten, Problemen usw. werden derzeit über das xStream Forum abgewickelt.
 
