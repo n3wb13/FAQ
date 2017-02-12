@@ -24,7 +24,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
     - [3.2 URL Resolver Fehler](#32-url-resolver-fehler)
-    - [3.3 Fehlermeldungen im Betrieb](#33-fehlermeldungen-im-betrieb)
+    - [3.3 Beobachtungen und Bugs im Betrieb](#33-beobachtungen-und-bugs-im-betrieb)
   
 - [4. Fehlerbericht über Log-Datei](#4-fehlerbericht-über-log-datei)
     - [4.1 Allgemeines zur Log-Datei](#41-allgemeines-zur-log-datei)
@@ -552,9 +552,51 @@ Sollte dies der Fall sein, bitte den aktuellste Version des "URLResolver" über 
  https://github.com/tknorris/script.module.urlresolver/archive/master.zip
 
 
-### 3.3 Fehlermeldungen im Betrieb
+### 3.3 Beobachtungen und Bugs im Betrieb
 
-Derzeit keine bekannt
+**Trakt watched Status & Exodus**
+
+einmal in Exodus "mit trakt angesehen" markierte Filme lassen sich nicht mehr als "mit trakt ungesehen" markieren und werden auf trakt.tv aber auch nicht als watched übernommen
+
+Staffeln in Serien lassen sich nicht einzeln als watched oder unwatched markieren. 
+
+Die Markierung einer Staffel als "watched/unwatched" markiert immer gleich alle Staffeln
+
+Lösung: derzeit keine
+
+**Super Favoriten funktioniert nur teilweise mit Exodus**
+
+Bei Filmen gibt es meistens kein Problem mit dem Addon SuperFavoriten.
+
+Bei Serien ist es jedoch so, dass diese in den SuperFavoriten Ordner integriert werden können, jedoch kann der Stream nicht abgespielt werden, es tut sich gar nichts
+
+Mit einem kleinen Trick, behebt Ihr diese Problem. 
+
+*Folgender Vorgang muss nach jedem Exodus Update erneut durchgeführt werden*
+
+Navigiere zu folgendem Ordner: 
+(Kap.4.2 steht der ganze Speicherpfad)
+
+...../.kodi/addons/plugin.video.exodus/resources/lib/modules/control.py
+
+Öffne die control.py 
+
+Suche folgenden Eintrag
+		 
+		  def moderator():
+
+Füge hier folgendes hinzu:
+
+	'plugin.program.super.favourites'
+
+sieht fertig dann so aus:
+
+	def moderator():
+    netloc = [urlparse.urlparse(sys.argv[0]).netloc, '', 'plugin.video.live.streamspro',
+    'plugin.video.phstreams', 'plugin.video.cpstreams', 'plugin.video.tinklepad', 'plugin.video.metallic',
+    'plugin.video.metalliq', 'plugin.program.super.favourites']
+
+Speichern. Nun kann SuperFavoriten ohne Probleme mit Exodus genutzt werden
 
 ## 4. Fehlerbericht über Log-Datei
 
