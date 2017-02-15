@@ -20,6 +20,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
     - [2.7 Downloads](#27-downloads)
     - [2.8 URL Resolver Konfiguration](#28-url-resolver-konfiguration)
     - [2.9 Trakt](#29-trakt)
+    - [2.10 Gemeinsamer gesehen Status in Exodus und xStream](#210-gemeinsamer-gesehen-status-in-exodus-und-xstream)
  
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
@@ -44,15 +45,13 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
 Exodus ist, genau wie xStream,  ein Video Addon für die Media-Center-Software Kodi. 
 Mit Exodus ist es möglich über eine einfache Benutzeroberfläche mehrere Streaming-Seiten zu benutzen, mit denen man Filme und Serien anschauen kann.
 
-Dabei greift Exodus bei Film/Serienauswahl oder einer Suche zuerst auf eine Filmdatenbank zu (z.B.tvdb) und zeigt ein Ergebnis an. 
+Dabei greift Exodus bei Film/Serienauswahl oder einer Suche zuerst auf eine Filmdatenbank zu (z.B.tvdb)zu und zeigt ein Ergebnis an. 
 
 Erst nach der getroffenen Auswahl werden die Anbieter & Hoster durchsucht.
 
 Der Menüaufbau von Exodus ist eigentlich selbsterklärend
 
 Die Menüsprache von Exodus ist jene Sprache, auf die Kodi eingestellt ist
-
-Über das Seiten-Menü (linker Rand von Kodi) könnt Ihr die Ansicht wie die Filminformationen dargestellt werden, ändern: Liste, Wall, InfoWall, LowList, Symbol usw.
 
 Bei Exodus liegt der Vorteil für viele User darin, dass auch Englisch sprachliche Streams genutzt werden können.
 
@@ -125,9 +124,15 @@ Die Index-Seiten welche so hinzugefügt werden, können sofort verwendet werden,
 
 Die Sichtbarkeit erfolgt, mit dem nächsten Repo Update!!
 
+Im Exodus Repo ist auch das TVAddons Repo  enthalten. 
+
+Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch, wenn es ein Repo-Update gibt. 
+
+Es wird übrigens der tknorris URL Resolver Verwendet.
+
 **Tipp:**
 
-Da Exodus und xStream den gleichen URLResolver verwenden, könnt Ihr das (tägliche) Updaten des URLResolvers über xStream machen, sofern xStream installiert ist
+Da Exodus und xStream den gleichen URLResolver verwenden, könnt Ihr das Updaten des URLResolvers über xStream machen, sofern xStream installiert ist
 
 Alternativ kann Exodus auch über das Addon Fusion Installer installiert werden, jedoch nicht zu empfehlen da es zu umständlich ist
 
@@ -337,6 +342,29 @@ Die Suche in Exodus ist ein Globale Suche. Das heißt, es werden immer alle Anbi
 Diese beiden Kategorien sind nur nutzbar, wenn z.B. Trakt aktiviert ist
 Hier findet Ihr dann Eure gesehenen Serien/Filme, Filmvorschläge usw.
 
+**EXODUS: Anzeige Typen**
+Hier wird die Ansicht (view) eingestellt, wie Filme/Serien/Episoden usw. dargestellt werden (Liste, Wall, InfoWall, Poster usw...)
+
+Diese Ansichten werden in einer eigenen Datenbank gespeichert:
+
+.....kodi\userdata\addon_data\plugin.video.exodus\views.db
+
+Und so stellt Ihr die Ansichten ein:
+
+Exodus Menü -> Werkzeuge ->Angezeigte Typen-> 4 Kategorien (Filme, TV Serien, Staffeln, Episoden)->eine auswählen-> jetzt über Seitenmenü die Ansicht auswählen (Wall, InfoWall, Poster, Fanart usw..) ->Speichern (auf das angezeigte Bild klicken oder auf den Text)->fertig
+
+Nun wird die Ansicht in Exodus so dargestellt, wie sie eben eingestellt wurde
+
+Wollt Ihr die Datenbak zurücksetzen, dann kann sie gelöscht werden
+
+Erklärung zur Datenbank:
+
+*views.db*
+
+speichert eine festgelegte Ansicht über das Exodus Menü, welche bei jedem Seitenaufruf (Pfad: Bsp. Filme -> Trakt -> Sammlung) die - vom Skin in der ViewModes.db gespeicherte -ViewID überscheibt 
+
+Thema: [Link](http://xstream-addon.square7.ch/showthread.php?tid=969)
+
 ### 2.3 Index Seiten Aktivieren und Deaktivieren
 
 *Standard:* Alle Index Seiten aktiviert
@@ -439,6 +467,8 @@ WooHoo! Your device is now connected and will automatically refresh in a few sec
 Zurück in Exodus, steht jetzt bei Trakt Euer Benutzername.
 Der Takt Service kann ab jetzt genutzt weren
 
+Weiteres zum Thema Trakt findet Ihr hier: [Link](http://xstream-addon.square7.ch/showthread.php?tid=948)
+
 ### 2.6 Untertitel
 *Standard (default):* deaktiviert
 
@@ -534,6 +564,24 @@ Immer wenn ein Film/Serie in Exodus als gesehen oder "In Trakt gesehen" markiere
 Das ist leider ein normales verhalten von Exodus und liegt an Kodi 17
 
 Hier müssen an Exodus noch Anpassungen für Kodi 17 vorgenommen werden
+
+Thema: [Link](http://xstream-addon.square7.ch/showthread.php?tid=948)
+
+### 2.10 Gemeinsamer gesehen Status in Exodus und xStream
+
+Exodus benutzt standardmaäßig den metahandler
+
+Wenn dieser auch in xStream aktiviert wurde, dann wird der gesehen Status aus xStream auch in Exodus angezeigt und umgekehrt, weil dann beide Addons in die gleiche Datenbank schreiben
+
+Die Datenbank befindet sich unter:  
+
+.....kodi/userdata/addon_data/Skript.module.metahandler/meta_cache/Video_cache.db
+
+Ihr könnt den "gesehen Status" (wached state) auch exportieren und auf einem anderen System importieren
+
+Ihr müsst dann also nur die oben genannte *video_cache.db* auf ein anderes System übertragen
+
+Thema: [Link](http://xstream-addon.square7.ch/showthread.php?tid=787)
 
 ## 3. Bekannte Probleme
 
