@@ -646,6 +646,33 @@ sieht fertig dann so aus:
 
 Speichern. Nun kann SuperFavoriten ohne Probleme mit Exodus genutzt werden
 
+**Fehlermeldung: "Kein Stream verfügbar"**
+
+Exodus greift bei der  Suche, Film/Serienauswahl zuerst auf eine Filmdatenbank zu (IMDB), fragt diese nach Infos zum Film, zur Serie ab und zeigt diese dann an
+
+In dieser Datenbank sind also nur Informationen zu Filmen/Serien gespeichert und hat noch nichts mit der Verfügbarkeit des Streams/Hoster zu tun
+
+Daher kommt es immer wieder mal vor, dass z.B. die Episode einer Serie (in Deutsch) angezeigt wird und wenn der Stream gestarte werden soll,kommt die Fehlermeldung: 
+
+*"In Exodus kein Stream verfügbar"*
+
+Das ist KEIN Fehler von & in Exodus!!
+
+**Falsche HD/1080p Angaben bei Streams**
+
+Das ist KEIN Fehler von & in Exodus
+
+Einigen Hoster haben falsche Angaben zur Qualität (Auflösung) der Streams
+
+Da steht dann neben dem Hoster HD/1080p obwohl es nur ein SD Stream ist.
+
+Bekannte Hoster wo die Auflösung (Qualität) neben dem Stream meistens falsch ist,da diese keine HD/1080p anbieten:
+
+Streamcloud
+Vidto
+Vidiz
+Flashx
+
 ## 4. Fehlerbericht über Log-Datei
 
 
