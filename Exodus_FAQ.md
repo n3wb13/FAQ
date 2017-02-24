@@ -68,6 +68,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | Name           | Domain            | Verfügbarkeit          | Stand      |
 |:-------------- |:----------------- | :------------------| :--------- |
 |1Kino| 1kino.in| 	funktioniert| 12.01.2017
+|Animeloads  |anime-loads.org  | nächstes Update  | 23.02.2017 |
 | BurningSeries  | bs.to             | funktioniert           | 12.01.2017 |
 | Cine           | cine.to           | funktioniert           | 12.01.2017 |
 | DirectDownLoad | ddl.me            | funktioniert           | 12.01.2017 |
@@ -76,9 +77,12 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 |iLoad |iload.to |funktioniert|	12.01.2017
 | KinoDogs|  kinodogs.to| funktioniert|28.01.2017
 | KinoX          | kinox.to          | funktioniert           | 12.01.2017 |
-|MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017
-|Rapidstream| rapidstream.to|nächstes Update | 06.02.2017|
+|MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017|
+| Movie4k|movie4k.to |nächstes Update |13.02.2017
 |SerienStream|  serienstream.to | funktioniert   | 28.1.2017  |
+|Moviesever| moviesever.com  | nächstets Update  |10.02.2017  |
+|Rapidstream| rapidstream.to|nächstes Update | 06.02.2017|
+|SerienStream | serienstream.to | funktioniert |13.01.2017
 |StreamDream| 	streamdream.ws| 	funktioniert |12.01.2017
 |StreamKisteTV| streamkiste.tv | funktioniert |12.01.2017  |
 |SeriesEver |seriesever.net |funktioniert | 12.01.2017
