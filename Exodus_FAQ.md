@@ -292,9 +292,11 @@ nach Streamauswahl wird das Info-Fenster, klein am Rand des Bildschirmes dargest
 
 4k, 1440p, 1080p, 720p und 480p stehen zur Auswahl
 
-Das was hier engestellt wird, ist die max. Auflösung nach denen die Index-Seiten durchsucht werden. 
+Das was hier engestellt wird, ist die max. Auflösung nach der die Index-Seiten durchsucht werden. 
 
 Ist auch die max. Auflösung, welche bei Autoplay verwendet wird
+
+Bei Seriesever & Moviesever ist 4k verfügbar, aber nur mit einem Premium Account (Bezahlung)
 
 **SD Anbieter in Autoplay**
 
