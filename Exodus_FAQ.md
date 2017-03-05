@@ -68,7 +68,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | Name           | Domain            | Verfügbarkeit          | Stand      |
 |:-------------- |:----------------- | :------------------| :--------- |
 |1Kino| 1kino.in| 	funktioniert| 12.01.2017
-|Animeloads  |anime-loads.org  | nächstes Update  | 23.02.2017 |
+|Animeloads  |anime-loads.org  | funktioniert  | 23.02.2017 |
 | BurningSeries  | bs.to             | funktioniert           | 12.01.2017 |
 | Cine           | cine.to           | funktioniert           | 12.01.2017 |
 | DirectDownLoad | ddl.me            | funktioniert           | 12.01.2017 |
@@ -78,10 +78,10 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | KinoDogs|  kinodogs.to| funktioniert|28.01.2017
 | KinoX          | kinox.to          | funktioniert           | 12.01.2017 |
 |MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017|
-| Movie4k|movie4k.to |nächstes Update |13.02.2017
+| Movie4k|movie4k.to |funktioniert |13.02.2017
 |SerienStream|  serienstream.to | funktioniert   | 28.1.2017  |
-|Moviesever| moviesever.com  | nächstets Update  |10.02.2017  |
-|Rapidstream| rapidstream.to|nächstes Update | 06.02.2017|
+|Moviesever| moviesever.com  | funktioniert  |10.02.2017  |
+|Rapidstream| rapidstream.to|funktioniert | 06.02.2017|
 |SerienStream | serienstream.to | funktioniert |13.01.2017
 |StreamDream| 	streamdream.ws| 	funktioniert |12.01.2017
 |StreamKisteTV| streamkiste.tv | funktioniert |12.01.2017  |
@@ -114,10 +114,12 @@ Hier ist ein Video von Rechtsanwalt Christian Solmecke, der über das Thema rech
 
 Das Video Addon Exodus wird über das  EXODUS Repository installiert (empfohlen). 
 
-Diese ist momentan hier verfügbar: 
+Dieses ist hier verfügbar: 
 [Download](https://offshoregit.com/exodus/repository.exodus/repository.exodus-1.0.1.zip)
 
 (INFO) Exodus auf Offshoregit: [Link](https://offshoregit.com/exodus/)
+
+Die Entwicklung und Änderungen in Exodus können auf Github mitverfolt werden, der Download sollte jedoch vom Downloadlink oben durchgeführt werden: [Exodus auf Github](https://dev.tvaddons.ag/tvaddons/plugin.video.exodus/tree/master)
 
 Die Aktualisierung von Exodus erfolgt NUR über das Exodus Repository, so wie bei jedem anderen Repo auch. 
 Nach einem Repo Update, werden dann auch neu hinzugefügte Index-Seiten automatisch angezeigt.
@@ -222,6 +224,10 @@ Englisch
 German
 
 German + Englisch
+
+French
+
+French + Englisch
 
 **Serien-Staffeln reduzieren**
 
