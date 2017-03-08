@@ -25,7 +25,7 @@ http://xstream-addon.square7.ch/showthread.php?tid=911
 - [3. Bekannte Probleme](#3-bekannte-probleme)
     - [3.1 Fehler bei der Installation](#31-fehler-bei-der-installation)
     - [3.2 URL Resolver Fehler](#32-url-resolver-fehler)
-    - [3.3 Beobachtungen und Bugs im Betrieb](#33-beobachtungen-und-bugs-im-betrieb)
+    - [3.3 Beobachtungen und Fehler im Betrieb](#33-beobachtungen-und-fehler-im-betrieb)
   
 - [4. Fehlerbericht über Log-Datei](#4-fehlerbericht-über-log-datei)
     - [4.1 Allgemeines zur Log-Datei](#41-allgemeines-zur-log-datei)
@@ -351,6 +351,8 @@ Keine Angst, hierbei passiert nichts!!
 
 Die Suche in Exodus ist ein Globale Suche. Das heißt, es werden immer alle Anbieter/Hoster durchsucht
 
+Es kann vorkommen, dass eine Serie/ein Film nicht gefunden wird, näheres dazu siehe Kapitel 3.3
+
 **Kategorie: Meine Filme / Meine TV Serien**
 
 Diese beiden Kategorien sind nur nutzbar, wenn z.B. Trakt aktiviert ist
@@ -614,7 +616,25 @@ Sollte dies der Fall sein, bitte den aktuellste Version des "URLResolver" über 
  https://github.com/tknorris/script.module.urlresolver/archive/master.zip
 
 
-### 3.3 Beobachtungen und Bugs im Betrieb
+### 3.3 Beobachtungen und Fehler im Betrieb
+
+**Suche liefert kein Ergebnis, Suche zeigt kein Ergebnis an**
+
+Exodus findet eine Serie oder einen Film bei der Suche nicht,obwohl auf thetvdb die Infos vorhanden sind.
+
+Ein Beispiele: Die Biene Maja 2012
+
+*Wie kann ich die Serien in Exodus finden??*
+
+Die Suche basiert auf Trakt.tv. Trakt nutzt thevdb & imdb Datenbank
+
+Wenn auf Trakt.tv der Film oder die Serie gefunden wird,  findet es auch Exodus
+
+Der Film oder die Serie kann dabei in der Datenbank auch einen Englischen Namen enthalten/haben
+
+Das Beispiel Biene Maja:  wird gefunden wenn es "Maya" geschrieben wird
+
+Auch wenn Trakt nicht genutzt wird in/mit Exodus, benutzt Exodus trotzdem die Suche von Trakt.tv
 
 **Trakt watched Status & Exodus**
 
@@ -676,7 +696,7 @@ Das ist KEIN Fehler von & in Exodus!!
 
 Das ist KEIN Fehler von & in Exodus
 
-Einigen Hoster haben falsche Angaben zur Qualität (Auflösung) der Streams
+Einigen Hoster haben falsche Angaben zur Qualität (Auflösung) der Streams, sollte eigentlich nicht mehr vorkommen seit Update 3.1.0
 
 Da steht dann neben dem Hoster HD/1080p obwohl es nur ein SD Stream ist.
 
