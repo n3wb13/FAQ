@@ -115,9 +115,8 @@ Hier ist ein Video von Rechtsanwalt Christian Solmecke, der über das Thema rech
 Das Video Addon Exodus wird über das  EXODUS Repository installiert (empfohlen). 
 
 Dieses ist hier verfügbar: 
-[Download](https://offshoregit.com/exodus/repository.exodus/repository.exodus-1.0.1.zip)
 
-(INFO) Exodus auf Offshoregit: [Link](https://offshoregit.com/exodus/)
+[Download](https://offshoregit.com/exodus/repository.exodus/repository.exodus-1.0.1.zip)
 
 Die Entwicklung und Änderungen in Exodus können auf Github mitverfolt werden, der Download sollte jedoch vom Downloadlink oben durchgeführt werden: [Exodus auf Github](https://dev.tvaddons.ag/tvaddons/plugin.video.exodus/tree/master)
 
@@ -583,6 +582,14 @@ Hier müssen an Exodus noch Anpassungen für Kodi 17 vorgenommen werden
 
 Thema: [Link](http://xstream-addon.square7.ch/showthread.php?tid=948)
 
+Auch wenn Trakt nicht genutzt wird in/mit Exodus, benutzt Exodus trotzdem die Suche von Trakt.tv
+
+Ihr könnt auf der Homepage von Trakt.tv, Filme&Serien selbst zur Trakt Datenbank hinzufügen/nachtragen, wenn diese nicht vorhanden sind
+
+Dazu benötigt Ihr die Film oder Serien ID Nummer, welche Euch auf thevdb.com angezeigt wird
+
+Am unteren Ende der Trakt Homepage, findet Ihr das Import Menü für Filme (Import Movie) und Serien (Import TV Show), hier müsst Ihr die ID Nummer eingeben
+
 ### 2.10 Gemeinsamer gesehen Status in Exodus und xStream
 
 Exodus benutzt standardmaäßig den metahandler
@@ -635,6 +642,12 @@ Der Film oder die Serie kann dabei in der Datenbank auch einen Englischen Namen 
 Das Beispiel Biene Maja:  wird gefunden wenn es "Maya" geschrieben wird
 
 Auch wenn Trakt nicht genutzt wird in/mit Exodus, benutzt Exodus trotzdem die Suche von Trakt.tv
+
+Des weiteren, könnt Ihr auf der Homepage von Trakt.tv, Filme&Serien selbst zur Datenbank hinzufügen/nachtragen, wenn diese nicht vorhanden sind
+
+Dazu benötigt Ihr die Film oder Serien ID Nummer, welche Euch auf thevdb.com angezeigt wird
+
+Am unteren Ende der Trakt Homepage, findet Ihr das Import Menü für Filme (Import Movie) und Serien (Import TV Show), hier müsst Ihr die ID Nummer eingeben
 
 **Trakt watched Status & Exodus**
 
