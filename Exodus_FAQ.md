@@ -123,7 +123,7 @@ Die Entwicklung und Änderungen in Exodus können auf Github mitverfolt werden, 
 Die Aktualisierung von Exodus erfolgt NUR über das Exodus Repository, so wie bei jedem anderen Repo auch. 
 Nach einem Repo Update, werden dann auch neu hinzugefügte Index-Seiten automatisch angezeigt.
 
-Wollt Ihr nicht bis zu einem (Index-Seiten)Update warten, könnt Ihr unter folgendem Link die .py Dateien downloaden und in das entsprechende Verzeichnis kopieren (siehe Kap.5.3): [Link](https://github.com/Viper2k4/script.exodus.de)
+Wollt Ihr nicht bis zu einem Update warten, könnt Ihr  die .py Dateien der Index Seiten von [Github downloaden](https://dev.tvaddons.ag/tvaddons/plugin.video.exodus/tree/master/resources/lib/sources_de) und in das entsprechende Verzeichnis kopieren (siehe Kap.5.3)
 
 **Wichtig**
 
@@ -131,9 +131,24 @@ Die Index-Seiten welche so hinzugefügt werden, können sofort verwendet werden,
 
 Die Sichtbarkeit erfolgt, mit dem nächsten Repo Update!!
 
+**BEACHTE:**
+
+*Beim gesamten Daten Download von Github* gilt es folgendes zu Beachten:
+
+Um eine Korrekte Installation zu Gewährleisten, ist es immer notwendig, den Anhang Master, Beta, Nightly aus den .zip Dateien und dem Unterordner zu entfernen
+
+*Geht wie folgt:*
+
+Die Datei in “plugin.video.exodus-master.zip” umbenennen (quasi das “-master" entfernen)
+
+Dann Datei öffnen (nicht entpacken) mit 7-Zip, WinRAR, WinZIP (oder einem anderen Packer), dort ist ein Ordner zu sehen der z.B. “plugin.video.exodus-master” heißt => auch hier das “-master”
+entfernen
+
+Die Zip dann installieren.
+
 Im Exodus Repo ist auch das TVAddons Repo  enthalten. 
 
-Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch, wenn es ein Repo-Update gibt. 
+Wenn das installiert wird, aktualisiert sich auch der URL Resolver automatisch, wenn es ein URL Resolver Repo-Update gibt 
 
 Es wird übrigens der tknorris URL Resolver Verwendet.
 
