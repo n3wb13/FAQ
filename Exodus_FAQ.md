@@ -68,7 +68,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | Name           | Domain            | Verfügbarkeit          | Stand      |
 |:-------------- |:----------------- | :------------------| :--------- |
 |1Kino| 1kino.in| 	funktioniert| 12.01.2017
-|Animeloads  |anime-loads.org  | funktioniert  | 23.02.2017 |
+|Animeloads  	 |anime-loads.org    | funktioniert 	      | 23.02.2017 |
 | BurningSeries  | bs.to             | funktioniert           | 12.01.2017 |
 | Cine           | cine.to           | funktioniert           | 12.01.2017 |
 | DirectDownLoad | ddl.me            | funktioniert           | 12.01.2017 |
@@ -76,19 +76,20 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 |Foxx 		 |foxx.to 	     |download auf Github     |12.03.2017 |
 | HDfilme        | hdfilme.tv        | funktioniert           | 12.01.2017 |
 |iLoad 		 |iload.to 	     |funktioniert	      |	12.01.2017 |
-| KinoDogs|  kinodogs.to| funktioniert|28.01.2017
+| KinoDogs	 |  kinodogs.to	     | funktioniert	      |28.01.2017|
 | KinoX          | kinox.to          | funktioniert           | 12.01.2017 |
-|MeinKino 	 |meinkino.to  	 |funktioniert 	 |12.01.2017|
-| Movie4k|movie4k.to |funktioniert |13.02.2017
-|Moviesever| moviesever.com  | funktioniert  |10.02.2017  |
-|Rapidstream| rapidstream.to|funktioniert | 06.02.2017|
-|SerienStream | serienstream.to | funktioniert |13.01.2017
-|StreamDream| 	streamdream.ws| 	funktioniert |12.01.2017
-|StreamKisteTV| streamkiste.tv | funktioniert |12.01.2017  |
-|SeriesEver |seriesever.net |funktioniert | 12.01.2017
+|MeinKino 	 |meinkino.to  	     |funktioniert 	      |12.01.2017|
+| Movie4k	 |movie4k.to	     |funktioniert 	      |13.02.2017|
+|Moviesever	 | moviesever.com    | funktioniert	      |10.02.2017  |
+|Netzkino  	 | netzkino.de 	     |download auf Github     |16.03.2017  |
+|Rapidstream	 | rapidstream.to    |Offline 		      | 16.03.2017|
+|SerienStream    | serienstream.to   | funktioniert 	      |13.01.2017|
+|StreamDream	 | streamdream.ws    | funktioniert 	      |12.01.2017|
+|StreamKisteTV	 | streamkiste.tv    | funktioniert	      |12.01.2017  |
+|SeriesEver 	 |seriesever.net     |funktioniert            | 12.01.2017|
 | Tata           | tata.to           | funktioniert           | 12.01.2017 |
 | Video4k        | video4k.to        | funktioniert           | 12.01.2017 |
-|View4U 	|view4u.cc |Homepage down |29.01.2017
+|View4U 	 |view4u.cc 	     |Homepage down 	      |29.01.2017|
 
 Empfehlungen und Vorschläge für neue Seiten können über das xStream Forum unter dem Bereich [Sonstiges, Projekt EXODUS](http://xstream-addon.square7.ch/showthread.php?tid=911) angefragt bzw. eingestellt werden.
 
