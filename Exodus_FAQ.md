@@ -113,6 +113,8 @@ Hier ist ein Video von Rechtsanwalt Christian Solmecke, der über das Thema rech
 
 ### 2.1 Bezugsquellen zur Installation
 
+**Das hinzufügen von Exodus über "als Quelle hinzufügen" in Kodi ist NICHT möglich!!!**
+
 Das Video Addon Exodus wird über das  EXODUS Repository installiert (empfohlen). 
 
 Dieses ist hier verfügbar: 
