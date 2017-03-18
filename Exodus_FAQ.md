@@ -55,7 +55,7 @@ Die Menüsprache von Exodus ist jene Sprache, auf die Kodi eingestellt ist
 
 Bei Exodus liegt der Vorteil für viele User darin, dass auch Englisch sprachliche Streams genutzt werden können.
 
-Die Englischen Seiten werden jedoch von uns nicht Supportet
+Die Fremdsprachliche Seiten werden jedoch von uns nicht Supportet
 
 Englisches Exodus Forum findet Ihr hier: [Link](https://www.tvaddons.ag/forums/exodus-repository/41161-exodus-add.html)
 
@@ -73,7 +73,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | Cine           | cine.to           | funktioniert           | 12.01.2017 |
 | DirectDownLoad | ddl.me            | funktioniert           | 12.01.2017 |
 | FilmPalast     | filmpalast.to     | funktioniert           | 12.01.2017 |
-|Foxx 		 |foxx.to 	     |download auf Github     |12.03.2017 |
+|Foxx 		 |foxx.to 	     |Download auf Github     |12.03.2017 |
 | HDfilme        | hdfilme.tv        | funktioniert           | 12.01.2017 |
 |iLoad 		 |iload.to 	     |funktioniert	      |	12.01.2017 |
 | KinoDogs	 |  kinodogs.to	     | funktioniert	      |28.01.2017|
@@ -85,6 +85,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 |Rapidstream	 | rapidstream.to    |Offline 		      | 16.03.2017|
 |SerienStream    | serienstream.to   | funktioniert 	      |13.01.2017|
 |StreamDream	 | streamdream.ws    | funktioniert 	      |12.01.2017|
+| Streamit	 | streamit.ws 	     | Download auf Github    | 17.03.2017 |
 |StreamKisteTV	 | streamkiste.tv    | funktioniert	      |12.01.2017  |
 |SeriesEver 	 |seriesever.net     |funktioniert            | 12.01.2017|
 | Tata           | tata.to           | funktioniert           | 12.01.2017 |
@@ -676,6 +677,26 @@ Staffeln in Serien lassen sich nicht einzeln als watched oder unwatched markiere
 Die Markierung einer Staffel als "watched/unwatched" markiert immer gleich alle Staffeln
 
 Lösung: derzeit keine
+
+**Trakt arbeitet sehr langsam/Inhalte werden nur langsam geladen**
+
+Das Trakt langsam lädt liegt leider am Trakt
+
+Es gab keine Änderung an der Trakt-Integration, es liegt daher nicht an Exodus
+
+Das Laden z.B. der Merkliste kann schon mal ein paar Minuten dauern
+
+**Abbruch der Streams/Buffern der Streams während der Wiedergabe**
+
+Gehört eigentlich nicht hier in diese Kategorie da es kein Fehler von Exodus ist
+
+Aber da es oft gefagt wird, bzw. öfters vorkommt steht es eben hier
+
+Wenn der Stream an Kodi übergeben hat, ist die die Sache für Exodus durch/erledigt
+
+Wenn Streams abbrechen/buffern oder ähnliches, ist das ein Problem von Kodi und nicht von Exodus
+
+Was das verursacht müsste man genauer klären, eventuell hilft eine advancedsettings.xml
 
 **Super Favoriten funktioniert nur teilweise mit Exodus**
 
