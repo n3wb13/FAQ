@@ -73,7 +73,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | Cine           | cine.to           | funktioniert           | 12.01.2017 |
 | DirectDownLoad | ddl.me            | funktioniert           | 12.01.2017 |
 | FilmPalast     | filmpalast.to     | funktioniert           | 12.01.2017 |
-|Foxx 		 |foxx.to 	     |Download auf Github     |12.03.2017 |
+|Foxx 		 |foxx.to 	     |Download auf Github,jedoch Offline   |12.03.2017 |
 | HDfilme        | hdfilme.tv        | funktioniert           | 12.01.2017 |
 |iLoad 		 |iload.to 	     |funktioniert	      |	12.01.2017 |
 | KinoDogs	 |  kinodogs.to	     | funktioniert	      |28.01.2017|
@@ -81,7 +81,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 |MeinKino 	 |meinkino.to  	     |funktioniert 	      |12.01.2017|
 | Movie4k	 |movie4k.to	     |funktioniert 	      |13.02.2017|
 |Moviesever	 | moviesever.com    | funktioniert	      |10.02.2017  |
-|Netzkino  	 | netzkino.de 	     |download auf Github     |16.03.2017  |
+|Netzkino  	 | netzkino.de 	     |Download auf Github     |16.03.2017  |
 |Rapidstream	 | rapidstream.to    |Offline 		      | 16.03.2017|
 |SerienStream    | serienstream.to   | funktioniert 	      |13.01.2017|
 |StreamDream	 | streamdream.ws    | funktioniert 	      |12.01.2017|
