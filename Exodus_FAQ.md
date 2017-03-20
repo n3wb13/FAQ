@@ -73,7 +73,7 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 | Cine           | cine.to           | funktioniert           | 12.01.2017 |
 | DirectDownLoad | ddl.me            | funktioniert           | 12.01.2017 |
 | FilmPalast     | filmpalast.to     | funktioniert           | 12.01.2017 |
-|Foxx 		 |foxx.to 	     |Download auf Github,jedoch Offline   |19.03.2017 |
+|Foxx 		 |foxx.to 	     |derzeit Wartungsarbeiten   |19.03.2017 |
 | HDfilme        | hdfilme.tv        | funktioniert           | 12.01.2017 |
 |iLoad 		 |iload.to 	     |funktioniert	      |	12.01.2017 |
 | KinoDogs	 |  kinodogs.to	     | funktioniert	      |28.01.2017|
@@ -81,16 +81,15 @@ Ob es ein eigenes deutsches Exodus Forum geben wird, steht momentan noch nicht f
 |MeinKino 	 |meinkino.to  	     |funktioniert 	      |12.01.2017|
 | Movie4k	 |movie4k.to	     |funktioniert 	      |13.02.2017|
 |Moviesever	 | moviesever.com    | funktioniert	      |10.02.2017  |
-|Netzkino  	 | netzkino.de 	     |Download auf Github     |16.03.2017  |
+|Netzkino  	 | netzkino.de 	     |funktioniert	      |16.03.2017  |
 |Rapidstream	 | rapidstream.to    |Offline 		      | 16.03.2017|
 |SerienStream    | serienstream.to   | funktioniert 	      |13.01.2017|
 |StreamDream	 | streamdream.ws    | funktioniert 	      |12.01.2017|
-| Streamit	 | streamit.ws 	     | Download auf Github    | 17.03.2017 |
+| Streamit	 | streamit.ws 	     | funktioniert	      | 17.03.2017 |
 |StreamKisteTV	 | streamkiste.tv    | funktioniert	      |12.01.2017  |
 |SeriesEver 	 |seriesever.net     |funktioniert            | 12.01.2017|
 | Tata           | tata.to           | funktioniert           | 12.01.2017 |
 | Video4k        | video4k.to        | funktioniert           | 12.01.2017 |
-|View4U 	 |view4u.cc 	     |Homepage down 	      |29.01.2017|
 
 Empfehlungen und Vorschläge für neue Seiten können über das xStream Forum unter dem Bereich [Sonstiges, Projekt EXODUS](http://xstream-addon.square7.ch/showthread.php?tid=911) angefragt bzw. eingestellt werden.
 
@@ -360,14 +359,14 @@ Stream startet immer vom Anfang (auch wenn Ihr eine advancedsettings.xml verwend
 Wenn in Kodi unter: 
 Addons-Seitenmenü, Automatische Aktualisierung auf AUS gestellt ist, wird Exodus nicht automatisch aktualisiert
 
-**Exodus: Cache löschen/Index Seiten löschen**
+**EXODUS: Cache löschen/Index Seiten löschen**
 
 Löscht den Cache (Speicher) von Exodus
 Keine Angst, hierbei passiert nichts!!
 
 **Suche**
 
-Die Suche in Exodus ist ein Globale Suche. Das heißt, es werden immer alle Anbieter/Hoster durchsucht
+Die Suche in Exodus ist eine Globale Suche. Das heißt, es werden immer alle Anbieter/Hoster durchsucht
 
 Es kann vorkommen, dass eine Serie/ein Film nicht gefunden wird, näheres dazu siehe Kapitel 3.3
 
@@ -398,6 +397,16 @@ Erklärung zur Datenbank:
 speichert eine festgelegte Ansicht über das Exodus Menü, welche bei jedem Seitenaufruf (Pfad: Bsp. Filme -> Trakt -> Sammlung) die - vom Skin in der ViewModes.db gespeicherte -ViewID überscheibt 
 
 Thema: [Link](http://xstream-addon.square7.ch/showthread.php?tid=969)
+
+**Kanäle**
+
+Hier werden Euch Sky Sparten angezeigt
+
+Diese sind jedoch KEINE Live Streams
+
+Die Sparten dienen nur so als Vorschlag was man schauen könnte
+
+Deutscher SkyEPG wird nicht eingebaut, da Exodus International ist und die Vorschläge für alle gleich sind
 
 ### 2.3 Index Seiten Aktivieren und Deaktivieren
 
@@ -446,7 +455,7 @@ BS | OPENLOAD | HD
 
 (Anbieter | Hoster | Qualität)
 
-Die Qualität des Streams kann sein:  HD, SD, CAM usw.
+Die Qualität des Streams kann sein: 4k, HD, SD, CAM usw.
 
 Wie lange das durchsuchen der Hoster dauert hängt von der Einstellung *Zeitlimit für Index Seiten* ab
 
@@ -474,7 +483,7 @@ Dieser Vorgang muss immer wieder Wiederholt werden (nach 4 Stunden oder 5 Stream
 Auf der Homepage muss immer eine Werbung betrachet werden
 Da wir ja die Homepage des Hostbetreibers nicht besuchen müssen, entgehen dem Betreiber Werbeeinnahmen. 
 
-Damit dies nicht der Fall ist und die Hoster xStream so arbeiten lassen, wurde mit den Betreibern diese "pair" Funktion vereinbart.
+Damit dies nicht der Fall ist und die Hoster Exodus so arbeiten lassen, wurde mit den Betreibern diese "pair" Funktion vereinbart.
 Durch den klick auf "pair" bekommen die Hoster Ihre Werbeeinnahme.
 
 Für Euch entstehen dadurch KEINE Kosten!!
